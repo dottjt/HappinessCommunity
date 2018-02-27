@@ -1,0 +1,12 @@
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/app.db
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/PTHCommunity.deps.json
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/PTHCommunity.runtimeconfig.json
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/PTHCommunity.runtimeconfig.dev.json
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/PTHCommunity.dll
+/Users/dottjt/Code/PER/PTHCommunity/bin/Debug/netcoreapp2.0/PTHCommunity.pdb
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/PTHCommunity.csproj.CoreCompileInputs.cache
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/PTHCommunity.AssemblyInfoInputs.cache
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/PTHCommunity.AssemblyInfo.cs
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/PTHCommunity.dll
+/Users/dottjt/Code/PER/PTHCommunity/obj/Debug/netcoreapp2.0/PTHCommunity.pdb
